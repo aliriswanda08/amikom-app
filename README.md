@@ -1,1 +1,0 @@
-#amikom-app
